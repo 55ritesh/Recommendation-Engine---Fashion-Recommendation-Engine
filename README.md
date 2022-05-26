@@ -39,8 +39,9 @@ neighbour backed recommender. As shown in the figure Initially, the neural netwo
 an inventory is selected for generating recommendations and a database is created for the items in 
 inventory. The nearest neighbour’s algorithm is used to find the most relevant products based on the 
 input image and recommendations are generated.
+<img width="494" alt="121786603-7faaa480-cbde-11eb-856d-953e1f7b9a44" src="https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png">
 
-https://user-images.githubusercontent.com/18000553/121786603-7faaa480-cbde-11eb-856d-953e1f7b9a44.png
+
 ## Training the neural networks
 
 Once the data is pre-processed, the neural networks are trained, utilizing transfer learning 
