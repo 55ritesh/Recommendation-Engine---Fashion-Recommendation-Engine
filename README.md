@@ -41,8 +41,11 @@ inventory. The nearest neighbour’s algorithm is used to find the most relevant
 input image and recommendations are generated.
 <img width="494" alt="121786603-7faaa480-cbde-11eb-856d-953e1f7b9a44" src="https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png">
 
+![work-model](https://user-images.githubusercontent.com/89743011/170476738-cdfcd048-8bfd-450c-ad58-20ec025d5b7c.png)
 
-## Training the neural networks
+
+
+## neural networks
 
 Once the data is pre-processed, the neural networks are trained, utilizing transfer learning 
 from ResNet50. More additional layers are added in the last layers that replace the architecture and 
@@ -125,3 +128,4 @@ fashion image from any E-commerce website and later generating similar images to
 based on the features and texture of the input image. It is imperative that such research goes forward 
 to facilitate greater recommendation accuracy and improve the overall experience of fashion 
 exploration for direct and indirect consumers alike.
+
