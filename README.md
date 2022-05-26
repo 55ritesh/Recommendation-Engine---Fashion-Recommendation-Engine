@@ -73,6 +73,7 @@ show a great accuracy of the model with low error, loss and good f-score.
 
 ### Dataset Link
 Kaggle Dataset Big size 15 GB
+
 [Kaggle Dataset Small size 572 MB]
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
