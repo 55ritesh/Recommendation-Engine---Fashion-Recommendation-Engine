@@ -39,7 +39,7 @@ neighbour backed recommender. As shown in the figure Initially, the neural netwo
 an inventory is selected for generating recommendations and a database is created for the items in 
 inventory. The nearest neighbour’s algorithm is used to find the most relevant products based on the 
 input image and recommendations are generated.
-https://raw.githubusercontent.com/sonu275981/Fashion-Recommender-system/2d64eecc5eec75f86d67bf15d59d87598b7f1a90/Demo/work-model.png
+
 
 ## Training the neural networks
 
@@ -47,7 +47,8 @@ Once the data is pre-processed, the neural networks are trained, utilizing trans
 from ResNet50. More additional layers are added in the last layers that replace the architecture and 
 weights from ResNet50 in order to fine-tune the network model to serve the current issue. The figure
  shows the ResNet50 architecture.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdeeplearning%2Fcomments%2Fhip427%2Fwhat_are_the_50_layers_of_resnet50_i_know_that%2F&psig=AOvVaw1X0qkkN_MXkQW-5tMhsAGd&ust=1653644626901000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiNqMPw_PcCFQAAAAAdAAAAABAN
+![resnet](https://user-images.githubusercontent.com/89743011/170465253-0e491c0c-10d7-4db9-b678-36ab2ae56004.png)
+
 
 ## Getting the inventory
 
