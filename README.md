@@ -90,7 +90,6 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 ![Screenshot (107)](https://user-images.githubusercontent.com/89743011/170464638-15a88b15-fd4c-4ac6-9be5-13a72b0b31a1.png)
 
-
 ## Installation
 
 Use pip to install the requirements.
