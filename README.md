@@ -1,5 +1,5 @@
 
-### Recommender System :  Ecommerce Project - Clothes Recommendation
+# Recommender System :  Ecommerce Project - Clothes Recommendation
 
 In this project, we proposed a personalized Fashion Recommender system that generates recommendations for the user based on an input 
 given. Unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by 
