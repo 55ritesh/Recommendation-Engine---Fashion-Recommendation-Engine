@@ -34,7 +34,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 
 
-##   Recommendation Engine : Proposed Methodology 
+##   Recommendation Engine:Proposed Methodology 
 
 In this project, we propose a model that uses Convolutional Neural Network and the Nearest 
 neighbour backed recommender. As shown in the figure Initially, the neural networks are trained and then 
