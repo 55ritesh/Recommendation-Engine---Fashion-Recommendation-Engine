@@ -50,7 +50,7 @@ weights from ResNet50 in order to fine-tune the network model to serve the curre
  
   ![resnet](https://user-images.githubusercontent.com/89743011/170465253-0e491c0c-10d7-4db9-b678-36ab2ae56004.png)
 
-
+!.[hi].(https://editor.analyticsvidhya.com/uploads/59954intro%20to%20CNN.JPG)
 
 
 ## Getting the inventory
