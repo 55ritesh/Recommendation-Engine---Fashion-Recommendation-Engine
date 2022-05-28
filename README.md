@@ -41,6 +41,7 @@ input image and recommendations are generated.
 
 
 ## Convolutional Neural Networks
+
 - Convolutional Neural Network is a specialized neural network designed for visual data, such as images & videos. But CNNs also work well for non-image data (especially in NLP & text classification).
 - Its concept is similar to that of a vanilla neural network (multilayer perceptron) – It follows the same general principle of forwarding & backward propagation.
   
@@ -48,6 +49,7 @@ input image and recommendations are generated.
   from ResNet50. More additional layers are added in the last layers that replace the architecture and 
   weights from ResNet50 in order to fine-tune the network model to serve the current issue. The figure
   shows the ResNet50 architecture.
+
 
 
 ![59954intro to CNN](https://user-images.githubusercontent.com/89743011/170827497-76197e3a-e1b7-4e69-b809-9d6d076100f0.jpg)
