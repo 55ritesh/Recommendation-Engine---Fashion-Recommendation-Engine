@@ -60,7 +60,9 @@ input image and recommendations are generated.
 
 The images from Kaggle Fashion Product Images Dataset. The 
 inventory is then run through the neural networks to classify and generate embeddings and the output 
-is then used to generate recommendations. The Figure shows a sample set of inventory data
+is then used to generate recommendations. 
+
+### The Figure shows a sample set of inventory data
 
 ![dataset-cover](https://user-images.githubusercontent.com/89743011/170478150-9204c659-06a4-48bf-8420-5fee02a3c4d3.png)
 
