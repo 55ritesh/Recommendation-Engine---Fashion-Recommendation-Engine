@@ -35,6 +35,9 @@ input image and recommendations are generated.
 
 ### Application Flow-Chart
 
+![flow-chart](https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png)
+
+
 <img width="500" alt="121786603-7faaa480-cbde-11eb-856d-953e1f7b9a44" src="https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png">
 
 
