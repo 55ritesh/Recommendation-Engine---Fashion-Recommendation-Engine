@@ -4,9 +4,9 @@
 It is a personalized Fashion Recommender system that generates recommendations for the user based on an input given.It has been built as the solution to Microsoft Engage Challenge 2022. 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
+* [Introduction](#introduction)
+* [Recommendation Engine : Proposed Methodology](#Recommendation-Engine-:-Proposed-Methodology)
+* [Application Flow-Chart](#Application-Flow-Chart)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
