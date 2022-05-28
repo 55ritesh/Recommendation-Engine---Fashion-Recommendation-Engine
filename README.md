@@ -22,7 +22,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 
 
-##  PROPOSED METHADOLOGY FOR RECOMMENDATION ENGINE
+##   Recommendation Engine : Proposed Methodology 
 
 In this project, we propose a model that uses Convolutional Neural Network and the Nearest 
 neighbour backed recommender. As shown in the figure Initially, the neural networks are trained and then 
@@ -32,15 +32,14 @@ input image and recommendations are generated.
 
 ![work-model](https://user-images.githubusercontent.com/89743011/170476738-cdfcd048-8bfd-450c-ad58-20ec025d5b7c.png)
 
-To generate recommendations, our proposed approach uses Sklearn Nearest neighbours Oh Yeah. This allows us to find the nearest neighbours for the 
-given input image. The similarity measure used in this Project is the Cosine Similarity measure. The top 5 
-recommendations are extracted from the database and their images are displayed.
 
 ## Application Flow-Chart
 
 ![flow-chart](https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png)
 
-
+To generate recommendations, our proposed approach uses Sklearn Nearest neighbours Oh Yeah. This allows us to find the nearest neighbours for the 
+given input image. The similarity measure used in this Project is the Cosine Similarity measure. The top 5 
+recommendations are extracted from the database and their images are displayed.
 
 
 ## Convolutional Neural Networks
