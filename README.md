@@ -33,12 +33,9 @@ input image and recommendations are generated.
 ![work-model](https://user-images.githubusercontent.com/89743011/170476738-cdfcd048-8bfd-450c-ad58-20ec025d5b7c.png)
 
 
-### Application Flow-Chart
+## Application Flow-Chart
 
 ![flow-chart](https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png)
-
-
-<img width="500" alt="121786603-7faaa480-cbde-11eb-856d-953e1f7b9a44" src="https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png">
 
 
 
@@ -50,7 +47,8 @@ from ResNet50. More additional layers are added in the last layers that replace 
 weights from ResNet50 in order to fine-tune the network model to serve the current issue. The figure
  shows the ResNet50 architecture.
  
-![resnet](https://user-images.githubusercontent.com/89743011/170465253-0e491c0c-10d7-4db9-b678-36ab2ae56004.png)
+ 
+  ![resnet](https://user-images.githubusercontent.com/89743011/170465253-0e491c0c-10d7-4db9-b678-36ab2ae56004.png)
 
 
 
@@ -153,7 +151,7 @@ streamlit run main.py
 
 ## Challenges Faced and Learnings
 
-- 
+- Had very basic knowledge of  before the Microsoft Engage Program's qualification announcement. Spent about 168hrs learning the new concepts attached to React and then began the design-build process of this project.
 ## Resources
 
 
