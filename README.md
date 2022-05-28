@@ -43,7 +43,8 @@ input image and recommendations are generated.
 ## Convolutional Neural Networks
 - Convolutional Neural Network is a specialized neural network designed for visual data, such as images & videos. But CNNs also work well for non-image data (especially in NLP & text classification).
 - Its concept is similar to that of a vanilla neural network (multilayer perceptron) – It follows the same general principle of forwarding & backward propagation.
-  Once the data is pre-processed, the neural networks are trained, utilizing transfer learning 
+  
+- Once the data is pre-processed, the neural networks are trained, utilizing transfer learning 
   from ResNet50. More additional layers are added in the last layers that replace the architecture and 
   weights from ResNet50 in order to fine-tune the network model to serve the current issue. The figure
   shows the ResNet50 architecture.
