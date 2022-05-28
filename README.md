@@ -36,7 +36,7 @@ input image and recommendations are generated.
 ## Application Flow-Chart
 
 
-To generate recommendations, our proposed approach uses Sklearn Nearest neighbours . This allows us to find the nearest neighbours for the 
+  - To generate recommendations, our proposed approach uses Sklearn Nearest neighbours . This allows us to find the nearest neighbours for the 
 given input image. The similarity measure used in this Project is the Cosine Similarity measure. The top 5 
 recommendations are extracted from the database and their images are displayed.
 
