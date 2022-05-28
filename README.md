@@ -24,8 +24,10 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 ##   Recommendation Engine : Proposed Methodology 
 
-In this project, we propose a model that uses Convolutional Neural Network and the Nearest 
-neighbour backed recommender. As shown in the figure Initially, the neural networks are trained and then 
+ - In this project, we propose a model that uses Convolutional Neural Network and the Nearest 
+neighbour backed recommender.
+
+As shown in the figure Initially, the neural networks are trained and then 
 an inventory is selected for generating recommendations and a database is created for the items in 
 inventory. The nearest neighbour’s algorithm is used to find the most relevant products based on the 
 input image and recommendations are generated.
@@ -65,13 +67,13 @@ The images from Kaggle Fashion Product Images Dataset. The
 inventory is then run through the neural networks to classify and generate embeddings and the output 
 is then used to generate recommendations. 
 
-### The Figure shows a sample set of inventory data
+ ### The Figure shows a sample set of inventory data
 
 ![dataset-cover](https://user-images.githubusercontent.com/89743011/170478150-9204c659-06a4-48bf-8420-5fee02a3c4d3.png)
 
 
 
-## Experiment and results
+## Experiment and Results
 
 The concept of Transfer learning is used to overcome the issues of the small size Fashion dataset. 
 Therefore we pre-train the classification models on the DeepFashion dataset that consists of 44,441
