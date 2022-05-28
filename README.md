@@ -3,6 +3,18 @@
 
 It is a personalized Fashion Recommender system that generates recommendations for the user based on an input given.It has been built as the solution to Microsoft Engage Challenge 2022. 
 
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
 
 
@@ -24,10 +36,8 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 ##   Recommendation Engine : Proposed Methodology 
 
- - In this project, we propose a model that uses Convolutional Neural Network and the Nearest 
-neighbour backed recommender.
-
-As shown in the figure Initially, the neural networks are trained and then 
+In this project, we propose a model that uses Convolutional Neural Network and the Nearest 
+neighbour backed recommender. As shown in the figure Initially, the neural networks are trained and then 
 an inventory is selected for generating recommendations and a database is created for the items in 
 inventory. The nearest neighbour’s algorithm is used to find the most relevant products based on the 
 input image and recommendations are generated.
@@ -38,7 +48,7 @@ input image and recommendations are generated.
 ## Application Flow-Chart
 
 
-  - To generate recommendations, our proposed approach uses Sklearn Nearest neighbours . This allows us to find the nearest neighbours for the 
+To generate recommendations, our proposed approach uses Sklearn Nearest neighbours . This allows us to find the nearest neighbours for the 
 given input image. The similarity measure used in this Project is the Cosine Similarity measure. The top 5 
 recommendations are extracted from the database and their images are displayed.
 
@@ -67,13 +77,13 @@ The images from Kaggle Fashion Product Images Dataset. The
 inventory is then run through the neural networks to classify and generate embeddings and the output 
 is then used to generate recommendations. 
 
- ### The Figure shows a sample set of inventory data
+### The Figure shows a sample set of inventory data
 
 ![dataset-cover](https://user-images.githubusercontent.com/89743011/170478150-9204c659-06a4-48bf-8420-5fee02a3c4d3.png)
 
 
 
-## Experiment and Results
+## Experiment and results
 
 The concept of Transfer learning is used to overcome the issues of the small size Fashion dataset. 
 Therefore we pre-train the classification models on the DeepFashion dataset that consists of 44,441
