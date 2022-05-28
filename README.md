@@ -35,11 +35,12 @@ input image and recommendations are generated.
 
 ## Application Flow-Chart
 
-![flow-chart](https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png)
 
-To generate recommendations, our proposed approach uses Sklearn Nearest neighbours Oh Yeah. This allows us to find the nearest neighbours for the 
+To generate recommendations, our proposed approach uses Sklearn Nearest neighbours . This allows us to find the nearest neighbours for the 
 given input image. The similarity measure used in this Project is the Cosine Similarity measure. The top 5 
 recommendations are extracted from the database and their images are displayed.
+
+![flow-chart](https://user-images.githubusercontent.com/89743011/170476148-5c472690-675b-4907-91c4-9b9804668f6f.png)
 
 
 ## Convolutional Neural Networks
