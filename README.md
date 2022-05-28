@@ -5,7 +5,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Recommendation Engine](#recommendation Engine : Proposed Methodology)
+* [Recommendation Engine](#Recommendation Engine : Proposed Methodology)
 * [Application Flow-Chart](#Application-Flow-Chart)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
