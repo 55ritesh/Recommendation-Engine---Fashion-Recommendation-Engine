@@ -5,7 +5,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 ## 📌Table of Contents
 * [Introduction](#introduction)
-* [Recommendation Engine:Proposed Methodology](#recommendation-engine:proposed-methodology)
+* [Recommendation Engine:Proposed Methodology](#recommendation-engine:Proposed-methodology)
 * [Application Flow-Chart](#Application-Flow-Chart)
 * [Convolutional Neural Networks](#convolutional-neural-networks)
 * [Getting the inventory](#getting-the-inventory)
@@ -14,7 +14,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Built With / Dependencies](#built-with/dependencies)
+* [Built With / Dependencies](#built-with/Dependencies)
 * [Challenges Faced and Learnings](#challenges-faced-and-learnings)
 * [Resources](#resources)
 * [Conclusion](#conclusion)
@@ -99,10 +99,9 @@ show a great accuracy of the model with low error, loss and good f-score.
 
 ## Dataset Link
 
-Kaggle Dataset Big size 15 GB
+ - [Kaggle Dataset Big size 15 GB](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
 
-[Kaggle Dataset Small size 572 MB]
-https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+ - [Kaggle Dataset Small size 572 MB](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 
 
 
@@ -143,7 +142,7 @@ streamlit run main.py
 
 
 
-## Built With / Dependencies
+## Built With/Dependencies
 
 - [OpenCV]() - Open Source Computer Vision and Machine Learning software library
  
