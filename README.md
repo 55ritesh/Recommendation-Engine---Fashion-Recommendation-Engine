@@ -168,7 +168,7 @@ streamlit run main.py
 
 - Had to learn streamlit for creating graphical UI.
 
-- Setting the dependencies with proper version is the most critical 
+- Setting the dependencies with proper version is the most critical. 
 
 
 ## 📚Resources
