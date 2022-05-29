@@ -5,13 +5,18 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 ## 📌Table of Contents
 * [Introduction](#introduction)
-* [Recommendation Engine:Proposed Methodology](#Recommendation Engine:Proposed Methodology)
+* [Recommendation Engine:Proposed Methodology](#recommendation-engine:proposed-methodology)
 * [Application Flow-Chart](#Application-Flow-Chart)
+* [Convolutional Neural Networks](#convolutional-neural-networks)
+* [Getting the inventory](#getting-the-inventory)
+* [Experiment and results](#Experiment-and-results)
+* [Dataset Link](#dataset-link)
 * [Screenshots](#screenshots)
+* [Installation](#installation)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
+* [Installation](#installation)
 <!-- * [License](#license) -->
 
 
@@ -162,12 +167,16 @@ streamlit run main.py
 - Had very basic knowledge of  Deep Learning before the Microsoft Engage Program's qualification announcement. Spentquality time on learning the new concepts attached to Deep Learning and then began the design-build process of this project.
 - 
 ## 📚Resources
-- [CNN(Convolutional Neural Network)]
+
+- [CNN(Convolutional Neural Network)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-         overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK)
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-         overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK
+
   - python
-    https://www.pythoncheatsheet.org/
-  
+    .[python](https://www.pythoncheatsheet.org/)
+ 
+ 
+ 
 ## ✨Conclusion
 
 In this project, we have presented a novel framework for fashion recommendation that is driven by data, 
