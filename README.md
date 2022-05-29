@@ -28,7 +28,7 @@
 
 - Unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by the user to generate recommendations since many-a-time people see something that they are interested in and tend to look for products that are similar to that.
 
--  **_We use neural networks to process the images from Fashion Product Images Dataset and the Nearest neighbour backed recommender to generate the final recommendations._**
+-  **We use neural networks to process the images from Fashion Product Images Dataset and the Nearest neighbour backed recommender to generate the final recommendations.**
 
 
 ### ✍Purpose
@@ -144,21 +144,21 @@ streamlit run main.py
 
 ## [Built With/Dependencies](dependencies)
 
-- [OpenCV]() - Open Source Computer Vision and Machine Learning software library
+- **OpenCV** - Open Source Computer Vision and Machine Learning software library
  
-- [Tensorflow]() - TensorFlow is an end-to-end open source platform for machine learning.
+- **Tensorflow** - TensorFlow is an end-to-end open source platform for machine learning.
 
-- [Tqdm]() - tqdm is a Python library that allows you to output a smart progress bar by wrapping around any iterable.
+- **Tqdm** - tqdm is a Python library that allows you to output a smart progress bar by wrapping around any iterable.
 
-- [streamlit]() - Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful data apps in hours, not weeks.
+- **streamlit** - Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful data apps in hours, not weeks.
 
-- [pandas]() - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+- **pandas** - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
-- [Pillow]() - PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
+- **Pillow** - PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
 
-- [scikit-learn]() - Scikit-learn is a free software machine learning library for the Python programming language.
+- **scikit-learn** - Scikit-learn is a free software machine learning library for the Python programming language.
 
-- [opencv-python]() - OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
+- **opencv-python** - OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
 
 
 
