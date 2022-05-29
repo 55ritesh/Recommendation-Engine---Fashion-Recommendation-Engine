@@ -14,7 +14,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Built With / Dependencies](#Built With / Dependencies)
+* [Built With / Dependencies](#built-with-/-dependencies)
 * [Challenges Faced and Learnings](#challenges-faced-and-learnings)
 * [Resources](#resources)
 * [Conclusion](#conclusion)
@@ -171,14 +171,10 @@ streamlit run main.py
 
 ## 📚Resources
 
-[Kaggle Dataset Small size 572 MB]
-https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
-- [CNN:Convolutional Neural Network]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK
+- [CNN:Convolutional Neural Network](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-         overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK
-
-  -.[python](https://www.pythoncheatsheet.org/)
+  - [python](https://www.pythoncheatsheet.org/)
  
  
  
