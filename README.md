@@ -5,7 +5,7 @@
 
 ## 📌Table of Contents
 * [Introduction](#introduction)
-* [Recommendation Engine:Proposed Methodology](#recommendation-engine:Proposed-methodology)
+* [Recommendation Engine:Proposed Methodology](#recommendation-engine)
 * [Application Flow-Chart](#Application-Flow-Chart)
 * [Convolutional Neural Networks](#convolutional-neural-networks)
 * [Getting the inventory](#getting-the-inventory)
