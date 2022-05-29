@@ -5,7 +5,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 
 ## 📌Table of Contents
 * [Introduction](#introduction)
-* [Recommendation Engine:Proposed Methodology](#Recommendation-Engine:Proposed-Methodology)
+* [Recommendation Engine:Proposed Methodology](#recommendation-engine:proposed-methodology)
 * [Application Flow-Chart](#Application-Flow-Chart)
 * [Convolutional Neural Networks](#convolutional-neural-networks)
 * [Getting the inventory](#getting-the-inventory)
@@ -14,7 +14,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Built With / Dependencies](#built-with-/-dependencies)
+* [Built With / Dependencies](#built-with/dependencies)
 * [Challenges Faced and Learnings](#challenges-faced-and-learnings)
 * [Resources](#resources)
 * [Conclusion](#conclusion)
@@ -172,9 +172,9 @@ streamlit run main.py
 ## 📚Resources
 
 
-- [CNN:Convolutional Neural Network](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK)
+ - [CNN:Convolutional Neural Network](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fconvolutional-neural-network-an-overview%2F&psig=AOvVaw17iUbKlnmXbO9mjLRJ52Tk&ust=1653830434872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLsNOkgvgCFQAAAAAdAAAAABAK)
 
-  - [python](https://www.pythoncheatsheet.org/)
+ - [python](https://www.pythoncheatsheet.org/)
  
  
  
