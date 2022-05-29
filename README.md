@@ -14,7 +14,7 @@ It is a personalized Fashion Recommender system that generates recommendations f
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Built With / Dependencies](#built-with/Dependencies)
+* [Built With / Dependencies](#dependencies)
 * [Challenges Faced and Learnings](#challenges-faced-and-learnings)
 * [Resources](#resources)
 * [Conclusion](#conclusion)
@@ -142,7 +142,7 @@ streamlit run main.py
 
 
 
-## Built With/Dependencies
+## [Built With/Dependencies](dependencies)
 
 - [OpenCV]() - Open Source Computer Vision and Machine Learning software library
  
